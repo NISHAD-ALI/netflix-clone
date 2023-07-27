@@ -15,7 +15,7 @@ body {
     background-position: center;
     padding: 20px 12%;
     position: relative;
-    background-image:linear-gradient( rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0)),url(/assets/pics/mainbg.jpg);
+    background-image:linear-gradient( rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0)),url(assets/pics/mainbg.jpg);
 }
 
 .container1 nav {
